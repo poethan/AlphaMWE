@@ -16,4 +16,4 @@ we believe AlphaMWE is an asset for cross-lingual and multilingual research, suc
 
 Citation:
 
-Lifeng han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020. Barcelona, Spain.
+Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020. Barcelona, Spain.
