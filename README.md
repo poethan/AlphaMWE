@@ -11,9 +11,13 @@ One of our findings during corpora preparation is that accurate translation of M
 To facilitate further MT research, we present a categorisation of the error types encountered by MT systems in performing MWE related translations. 
 To acquire a broader view of MT issues, we selected four popular and state-of-the-art MT models for comparisons namely Microsoft Bing Translator, GoogleMT, Baidu Fanyi and DeepL MT. 
 Because of the noise removal, translation post editing and MWE annotation by human professionals, 
-we believe AlphaMWE is an asset for cross-lingual and multilingual research, such as MT and information extraction. Our multilingual corpora are available.
+we believe AlphaMWE is an asset for cross-lingual and multilingual research, such as MT and information extraction. Our multilingual corpora are freely available for research community.
+
+If you are interested in including your native languages into AlphaMWE (currently involved: English/Chinese/German/Polish/Spanish), please get in touch. We do think this is a good contribution to your native language processing in machine / AI era.
 
 
-Citation:
+Citation (this work is accepted to publish in proceedings):
 
-Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020. Barcelona, Spain.
+Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020. Barcelona, Spain. Association for Computational Linguistics.
+
+
