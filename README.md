@@ -18,6 +18,6 @@ If you are interested in including your native languages into AlphaMWE (currentl
 
 Citation (this work is accepted to publish in proceedings):
 
-Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020, 13 pages. Barcelona, Spain. Association for Computational Linguistics.
+Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020, 14 pages. Barcelona, Spain. Association for Computational Linguistics.
 
 
