@@ -13,7 +13,11 @@ To acquire a broader view of MT issues, we selected four popular and state-of-th
 Because of the noise removal, translation post editing and MWE annotation by human professionals, 
 we believe AlphaMWE is an asset for cross-lingual and multilingual research, such as MT and information extraction. Our multilingual corpora are freely available for research community.
 
-If you are interested in including your native languages into AlphaMWE (currently involved: English/Chinese/German/Polish/Spanish), please get in touch. We do think this is a good contribution to your native language processing in machine / AI era. [aaron.lifeng@adaptcentre.ie] (P.S. AlphaMWE corpus under tidying up, please contact this email for sample/ part of the data if needed)
+If you are interested in including your native languages into AlphaMWE (currently involved: English/Chinese/German/Polish/Spanish), please get in touch. We do think this is a good contribution to your native language processing in machine / AI era. 
+
+# Download (from drive)
+https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing 
+[aaron.lifeng@adaptcentre.ie] (P.S. AlphaMWE corpus under cleaning stage, please contact this email for sample/ part of the data if needed)
 
 
 Citation (this work is accepted to publish in proceedings):
