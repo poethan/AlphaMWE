@@ -15,12 +15,19 @@ we believe AlphaMWE is an asset for cross-lingual and multilingual research, suc
 
 If you are interested in including your native languages into AlphaMWE (currently involved: English/Chinese/German/Polish/Spanish), please get in touch. We do think this is a good contribution to your native language processing in machine / AI era. 
 
-# Download (from drive)
+# Download corpora (from drive)
 https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing 
 [aaron.lifeng@adaptcentre.ie] (P.S. AlphaMWE corpus under cleaning stage, please contact this email for sample/ part of the data if needed)
 
 
-Citation (this work is accepted to publish in proceedings):
+# paper & presentation
+Welcome to read our paper and the presentations
+https://arxiv.org/abs/2011.03783 (paper)
+https://youtu.be/KiuF5JdOlLw (oral)
+https://es.slideshare.net/mobile/AaronHanLiFeng/alphamwe-construction-of-multilingual-parallel-corpora-with-mwe-annotations-ppt4ws (ppt)
+
+
+# Citation (this work is accepted to publish in proceedings):
 
 Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020, 14 pages. Barcelona, Spain. Association for Computational Linguistics.
 
