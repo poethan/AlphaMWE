@@ -31,4 +31,12 @@ https://es.slideshare.net/mobile/AaronHanLiFeng/alphamwe-construction-of-multili
 
 Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020, 14 pages. Barcelona, Spain. Association for Computational Linguistics.
 
+# Contributors for each language pair
+
+English-Chinese:
+English-Polish:
+English-German:
+English-French:
+English-Italian:
+English-Spanish:
 
