@@ -34,9 +34,45 @@ Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Mult
 # Contributors for each language pair
 
 English-Chinese:
+
+Lifeng Han, <lifeng.han(at)adaptcentre.ie> ADAPT Research Centre, DCU, Dublin, Ireland
+
+Pan Pan, <panpan(at)m.scnu.edu.cn> School of Foreign Studies, South China Normal University, Guangzhou, China
+
+Qinyuan Li, <liq3(at)tcd.ie> School of Education, Trinity College Dublin (TCD), Ireland
+
+Ning Jiang, <njiang(at)tcd.ie> School of Linguistic, Speech and Communication Sciences, TCD, Ireland
+
+
+
+
 English-Polish:
+
+Teresa Flera, <t.flera(at)uw.edu.pl> Doctoral School of Humanities (Institute of English Studies), University of
+Warsaw, Poland
+
+Sonia Ramotowska, <s.ramotowska(at)uva.nl> Institute for Logic, Language and Computation, University of
+Amsterdam, Science Park 107, 1098 XG Amsterdam, The Netherlands
+
 English-German:
+
+Gültekin Cakir, <gueltekin.cakir(at)mu.ie> Innovation Value Institute, Maynooth University, Ireland
+
+Daniela Gierschek, <daniela.gierschek(at)uni.lu> Institute of Luxembourgish Linguistics and Literature, Université du
+Luxembourg, 2 Avenue de l'Université, 4365 Esch-sur-Alzette, Luxembourg
+
+Vanessa Smolik, <v.smolik(at)uni-bielefeld.de> Bielefeld University, Universitätsstraße 25, 33615 Bielefeld, Germany
+
+
 English-French:
+
+Lea Devingt, lea.delvingt(at)gmail.com 
+Killian Mace, killian.mace(at)gmail.com 
+
 English-Italian:
+
+Dr. Paolo Bolzoni, paolo.bolzoni.brown(at)gmail.com 
+
 English-Spanish:
+Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie
 
