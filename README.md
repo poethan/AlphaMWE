@@ -29,7 +29,22 @@ https://es.slideshare.net/mobile/AaronHanLiFeng/alphamwe-construction-of-multili
 
 # Citation (this work is accepted to publish in proceedings):
 
-Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020, 14 pages. Barcelona, Spain. Association for Computational Linguistics.
+Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020, pages 44--57. Barcelona, Spain (Online). Association for Computational Linguistics.
+
+@inproceedings{han-etal-2020-alphamwe,
+    title = "{A}lpha{MWE}: Construction of Multilingual Parallel Corpora with {MWE} Annotations",
+    author = "Han, Lifeng  and
+      Jones, Gareth  and
+      Smeaton, Alan",
+    booktitle = "Proceedings of the Joint Workshop on Multiword Expressions and Electronic Lexicons",
+    month = dec,
+    year = "2020",
+    address = "online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.mwe-1.6",
+    pages = "44--57",
+    abstract = "In this work, we present the construction of multilingual parallel corpora with annotation of multiword expressions (MWEs). MWEs include verbal MWEs (vMWEs) defined in the PARSEME shared task that have a verb as the head of the studied terms. The annotated vMWEs are also bilingually and multilingually aligned manually. The languages covered include English, Chinese, Polish, and German. Our original English corpus is taken from the PARSEME shared task in 2018. We performed machine translation of this source corpus followed by human post editing and annotation of target MWEs. Strict quality control was applied for error limitation, i.e., each MT output sentence received first manual post editing and annotation plus second manual quality rechecking. One of our findings during corpora preparation is that accurate translation of MWEs presents challenges to MT systems. To facilitate further MT research, we present a categorisation of the error types encountered by MT systems in performing MWE related translation. To acquire a broader view of MT issues, we selected four popular state-of-the-art MT models for comparisons namely: Microsoft Bing Translator, GoogleMT, Baidu Fanyi and DeepL MT. Because of the noise removal, translation post editing and MWE annotation by human professionals, we believe our AlphaMWE dataset will be an asset for cross-lingual and multilingual research, such as MT and information extraction. Our multilingual corpora are available as open access at github.com/poethan/AlphaMWE.",
+}
 
 # Contributors for each language pair
 
@@ -64,8 +79,7 @@ Luxembourg, 2 Avenue de l'Université, 4365 Esch-sur-Alzette, Luxembourg
 Vanessa Smolik, <v.smolik(at)uni-bielefeld.de> Bielefeld University, Universitätsstraße 25, 33615 Bielefeld, Germany
 
 
-English-French:
-
+English-French: 
 Lea Devingt, lea.delvingt(at)gmail.com 
 Killian Mace, killian.mace(at)gmail.com 
 
@@ -75,3 +89,5 @@ Dr. Paolo Bolzoni, paolo.bolzoni.brown(at)gmail.com
 English-Spanish:
 Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
 
+# news:
+AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska, Sonia, and Lifeng were present during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from Prof. Agata Savary, Uni. of Tours.
