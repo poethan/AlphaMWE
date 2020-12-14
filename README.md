@@ -90,4 +90,4 @@ English-Spanish:
 Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
 
 # news:
-AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska, Sonia, and Lifeng were present during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from Prof. Agata Savary, Uni. of Tours.
+AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska and Sonia were present together with Lifeng during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from Prof. Agata Savary, Uni. of Tours.
