@@ -13,6 +13,13 @@ To acquire a broader view of MT issues, we selected four popular and state-of-th
 Because of the noise removal, translation post editing and MWE annotation by human professionals, 
 we believe AlphaMWE is an asset for cross-lingual and multilingual research, such as MT and information extraction. Our multilingual corpora are freely available for research community.
 
+The original English source repo (https://gitlab.com/parseme/parseme_corpus_en)
+
+Five portions of the files from ‘aa to ae’:
+‘Ab’ portion contain some ‘mature information/content’
+
+License: since we use the English PARSEME dataset, we adopt the same license as the original dataset, i.e. CC-BY-SA 4.0
+
 If you are interested in including your native languages into AlphaMWE (currently involved: English/Chinese/German/Polish/Spanish), please get in touch. We do think this is a good contribution to your native language processing in machine / AI era. 
 
 # Download corpora (from drive)
