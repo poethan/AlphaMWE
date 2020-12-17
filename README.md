@@ -99,4 +99,4 @@ Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
 # news:
 AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska and Sonia were present together with Lifeng during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from audiences. 
 
-We thank Prof. Agata Savary, Uni. of Tours. to link AlphaMWE to the  list of language resources and tools for Polish - web http://clip.ipipan.waw.pl/LRT 
+We thank Prof. Agata Savary, Uni. of Tours. to link AlphaMWE to the  list of language resources and tools for Polish - CLIP platform http://clip.ipipan.waw.pl/LRT 
