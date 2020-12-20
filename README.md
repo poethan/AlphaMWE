@@ -95,6 +95,7 @@ Dr. Paolo Bolzoni, paolo.bolzoni.brown(at)gmail.com
 
 English-Spanish:
 Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
+Miss. Sheila (coming)
 
 # news:
 AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska and Sonia were present together with Lifeng during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from audiences. 
