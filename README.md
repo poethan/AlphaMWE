@@ -97,6 +97,10 @@ English-Spanish:
 Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
 Miss. Sheila (coming)
 
+# Acknowledgment
+We are grateful to the continuous support from Roise McGagh, Paolo Bolzoni, Lorin Sweeney, Eoin Treacy and Yi Lu on the corpus.
+
+
 # news:
 AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska and Sonia were present together with Lifeng during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from audiences. 
 
