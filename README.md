@@ -91,7 +91,7 @@ Lea Devingt, lea.delvingt(at)gmail.com
 Killian Mace, killian.mace(at)gmail.com 
 
 English-Italian:
-Dr. Paolo Bolzoni, paolo.bolzoni.brown(at)gmail.com 
+Dr. Paolo Bolzoni, paolo.bolzoni.brown(at)gmail.com Miss Gabriella Guagliardo, gabriellaguagliardo9(at)gmail.com 
 
 English-Spanish:
 Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
