@@ -95,7 +95,7 @@ Dr. Paolo Bolzoni, paolo.bolzoni.brown(at)gmail.com Miss Gabriella Guagliardo, g
 
 English-Spanish:
 Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
-Miss. Sheila (coming)
+Miss. Sheila Lavado Muñoz
 
 # Acknowledgment
 We are grateful to the continuous support from Roise McGagh, Paolo Bolzoni, Lorin Sweeney, Eoin Treacy and Yi Lu on the corpus.
