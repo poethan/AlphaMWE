@@ -24,7 +24,7 @@ If you are interested in including your native languages into AlphaMWE (currentl
 
 # Download corpora (from drive)
 https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing 
-[aaron.lifeng@adaptcentre.ie] (P.S. AlphaMWE corpus under cleaning stage, please contact this email for sample/ part of the data if needed)
+[lifeng.han(AT)adaptcentre.ie] (P.S. AlphaMWE corpus under cleaning stage, please contact this email for sample/part of the data if needed)
 
 
 # paper & presentation
@@ -98,7 +98,7 @@ Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
 Miss. Sheila Lavado Muñoz
 
 # Acknowledgment
-We are grateful to the continuous support from Roise McGagh, Paolo Bolzoni, Lorin Sweeney, Eoin Treacy and Yi Lu on the corpus.
+We are especially grateful to all the colleagues who contributed to the creation of this open source corpus from each language pair. We thank the continuous support from Roise McGagh, Paolo Bolzoni, Lorin Sweeney, Eoin Treacy and Yi Lu on the corpus in various ways.
 
 
 # news:
