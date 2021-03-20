@@ -91,11 +91,15 @@ Lea Devingt, lea.delvingt(at)gmail.com
 Killian Mace, killian.mace(at)gmail.com 
 
 English-Italian:
-Dr. Paolo Bolzoni, paolo.bolzoni.brown(at)gmail.com Miss Gabriella Guagliardo, gabriellaguagliardo9(at)gmail.com 
+Miss Gabriella Guagliardo, gabriellaguagliardo9(at)gmail.com 
+Dr. Paolo Bolzoni, paolo.bolzoni.brown(at)gmail.com 
+
 
 English-Spanish:
 Dr. Dexmont Pena, Email: dexmont.pena2(at)mail.dcu.ie / dexmont(at)gmail.com
 Miss. Sheila Lavado Muñoz
+Dr. Ricardo Bango coming-on-way news
+
 
 # Acknowledgment
 We are especially grateful to all the colleagues who contributed to the creation of this open source corpus from each language pair. We thank the continuous support from Roise McGagh, Paolo Bolzoni, Lorin Sweeney, Eoin Treacy and Yi Lu on the corpus in various ways.
