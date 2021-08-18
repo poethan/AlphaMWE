@@ -22,7 +22,7 @@ License: since we use the English PARSEME dataset, we adopt the same license as 
 
 If you are interested in including your native languages into AlphaMWE (currently involved: English/Chinese/German/Polish/Spanish), please get in touch. We do think this is a good contribution to your native language processing in machine / AI era. 
 
-# Download corpora (from drive)
+# Download multilingual parallel corpora (en, de, zh, pl, it)
 https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing 
 [lifeng.han(AT)adaptcentre.ie] (P.S. AlphaMWE corpus under cleaning stage, please contact this email for sample/part of the data if needed)
 
