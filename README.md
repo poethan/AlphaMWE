@@ -109,3 +109,5 @@ We are especially grateful to all the colleagues who contributed to the creation
 AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska and Sonia were present together with Lifeng during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from audiences. 
 
 We thank Prof. Agata Savary, Uni. of Tours. to link AlphaMWE to the  list of language resources and tools for Polish - CLIP platform http://clip.ipipan.waw.pl/LRT 
+
+Extended journal paper conditional accepted to Journal of LRE, entitled "Towards a resource for multilingual lexicons: an MT assisted and human-in-the-loop multilingual parallel corpus with multi-word expression annotation".
