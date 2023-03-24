@@ -1,6 +1,8 @@
 # AlphaMWE
 AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations
 
+[alternative repository]()
+
 In this work, we present the construction of multilingual parallel corpora with annotation of multiword expressions (MWEs). 
 The MWEs include the verbal MWEs (vMWEs) defined by the PARSEME shared task that have a verb as the head of the studied terms. 
 The annotated vMWEs are also bilingual and multilingual aligned manually. The languages covered include English, Chinese, Polish, and German. 
